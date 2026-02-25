@@ -1,0 +1,21 @@
+<svg width="800" height="420" viewBox="0 0 800 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Open and Fist Exercise</title>
+  <desc id="desc">Two hand states representing open palm and closed fist practice.</desc>
+  <rect width="800" height="420" rx="24" fill="#f2fffd" />
+  <text x="36" y="64" font-size="34" font-family="Sora, Arial" fill="#102a43">Open / Fist</text>
+  <g transform="translate(180 130)">
+    <rect x="20" y="90" width="110" height="160" rx="42" fill="#ffd7b5" />
+    <rect x="-8" y="18" width="28" height="130" rx="14" fill="#ffd7b5" />
+    <rect x="30" y="2" width="28" height="146" rx="14" fill="#ffd7b5" />
+    <rect x="68" y="0" width="28" height="148" rx="14" fill="#ffd7b5" />
+    <rect x="106" y="10" width="28" height="138" rx="14" fill="#ffd7b5" />
+  </g>
+  <g transform="translate(470 140)">
+    <rect x="26" y="70" width="110" height="170" rx="52" fill="#ffd7b5" />
+    <rect x="0" y="92" width="80" height="42" rx="21" fill="#ffd7b5" />
+    <rect x="16" y="44" width="120" height="34" rx="17" fill="#ffd7b5" />
+    <rect x="16" y="10" width="120" height="30" rx="15" fill="#ffd7b5" />
+  </g>
+  <line x1="380" y1="250" x2="430" y2="250" stroke="#0ea5a3" stroke-width="10" stroke-linecap="round" />
+  <polygon points="432,250 412,238 412,262" fill="#0ea5a3" />
+</svg>

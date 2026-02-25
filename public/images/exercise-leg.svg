@@ -1,0 +1,15 @@
+<svg width="800" height="420" viewBox="0 0 800 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Knee Raise Exercise</title>
+  <desc id="desc">A standing patient lifting one knee for lower limb control.</desc>
+  <rect width="800" height="420" rx="24" fill="#f7fbff" />
+  <text x="36" y="64" font-size="34" font-family="Sora, Arial" fill="#102a43">Knee Raise</text>
+  <line x1="120" y1="360" x2="680" y2="360" stroke="#d1e3f1" stroke-width="8" />
+  <circle cx="402" cy="128" r="46" fill="#ffd7b5" />
+  <rect x="344" y="174" width="118" height="140" rx="30" fill="#0ea5a3" />
+  <rect x="298" y="204" width="44" height="108" rx="18" fill="#0ea5a3" />
+  <rect x="462" y="204" width="44" height="108" rx="18" fill="#0ea5a3" />
+  <rect x="358" y="310" width="42" height="102" rx="18" fill="#1f3e5a" />
+  <rect x="420" y="300" width="42" height="86" rx="18" fill="#1f3e5a" transform="rotate(-22 420 300)" />
+  <path d="M506 250l70-42" stroke="#f97316" stroke-width="10" stroke-linecap="round" />
+  <polygon points="580,204 560,206 572,220" fill="#f97316" />
+</svg>

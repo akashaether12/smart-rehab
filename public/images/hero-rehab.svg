@@ -1,0 +1,52 @@
+<svg width="1200" height="700" viewBox="0 0 1200 700" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">RehabFlow Hero Illustration</title>
+  <desc id="desc">A therapist and patient doing guided rehabilitation with a progress dashboard.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ecfffd" />
+      <stop offset="100%" stop-color="#fff5ec" />
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0ea5a3" />
+      <stop offset="100%" stop-color="#0f766e" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="700" fill="url(#bg)" rx="24" />
+
+  <circle cx="155" cy="140" r="80" fill="#d7f5f3" />
+  <circle cx="1050" cy="540" r="110" fill="#ffedd5" />
+
+  <rect x="650" y="95" width="430" height="290" rx="20" fill="#ffffff" stroke="#d6e1ec" stroke-width="3" />
+  <rect x="680" y="130" width="370" height="55" rx="12" fill="#f6fbff" />
+  <text x="700" y="164" font-family="Sora, Arial, sans-serif" font-size="24" fill="#102a43">Session Progress</text>
+  <rect x="700" y="220" width="320" height="18" rx="9" fill="#deedf8" />
+  <rect x="700" y="220" width="240" height="18" rx="9" fill="#14b8a6" />
+  <text x="700" y="270" font-family="IBM Plex Sans, Arial, sans-serif" font-size="20" fill="#102a43">Quality</text>
+  <text x="980" y="270" font-family="IBM Plex Sans, Arial, sans-serif" font-size="20" fill="#102a43">82%</text>
+  <text x="700" y="304" font-family="IBM Plex Sans, Arial, sans-serif" font-size="20" fill="#102a43">Reps</text>
+  <text x="980" y="304" font-family="IBM Plex Sans, Arial, sans-serif" font-size="20" fill="#102a43">11</text>
+
+  <g transform="translate(140 190)">
+    <ellipse cx="170" cy="360" rx="160" ry="24" fill="#d9e8f6" />
+    <rect x="115" y="132" width="112" height="158" rx="24" fill="#0ea5a3" />
+    <circle cx="171" cy="89" r="44" fill="#ffd9b3" />
+    <rect x="93" y="170" width="45" height="115" rx="20" fill="#0ea5a3" />
+    <rect x="225" y="170" width="45" height="115" rx="20" fill="#0ea5a3" />
+    <rect x="120" y="290" width="42" height="95" rx="18" fill="#1f3e5a" />
+    <rect x="180" y="290" width="42" height="95" rx="18" fill="#1f3e5a" />
+  </g>
+
+  <g transform="translate(380 210)">
+    <ellipse cx="170" cy="340" rx="160" ry="24" fill="#d9e8f6" />
+    <rect x="120" y="140" width="100" height="148" rx="22" fill="#f97316" />
+    <circle cx="168" cy="96" r="42" fill="#ffd9b3" />
+    <rect x="86" y="170" width="40" height="94" rx="16" fill="#f97316" transform="rotate(-18 86 170)" />
+    <rect x="222" y="170" width="40" height="94" rx="16" fill="#f97316" transform="rotate(18 222 170)" />
+    <rect x="126" y="286" width="38" height="88" rx="16" fill="#1f3e5a" />
+    <rect x="178" y="286" width="38" height="88" rx="16" fill="#1f3e5a" />
+  </g>
+
+  <rect x="52" y="52" width="180" height="58" rx="14" fill="url(#panel)" />
+  <text x="82" y="88" font-family="Sora, Arial, sans-serif" font-size="26" fill="#ffffff">RehabFlow</text>
+</svg>

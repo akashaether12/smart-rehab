@@ -1,0 +1,20 @@
+<svg width="800" height="420" viewBox="0 0 800 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Head Turn Exercise</title>
+  <desc id="desc">Illustration of a patient turning head left and right.</desc>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f0fffd" />
+      <stop offset="100%" stop-color="#fff4eb" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="420" rx="24" fill="url(#g)" />
+  <text x="36" y="64" font-size="34" font-family="Sora, Arial" fill="#102a43">Head Turns</text>
+  <path d="M180 250c22-34 64-56 106-56" stroke="#0ea5a3" stroke-width="10" fill="none" stroke-linecap="round" />
+  <path d="M630 250c-22-34-64-56-106-56" stroke="#0ea5a3" stroke-width="10" fill="none" stroke-linecap="round" />
+  <polygon points="300,176 280,182 292,196" fill="#0ea5a3" />
+  <polygon points="500,176 520,182 508,196" fill="#0ea5a3" />
+  <circle cx="400" cy="175" r="52" fill="#ffd9b3" />
+  <rect x="338" y="227" width="124" height="132" rx="30" fill="#0ea5a3" />
+  <rect x="282" y="256" width="54" height="112" rx="20" fill="#0ea5a3" />
+  <rect x="464" y="256" width="54" height="112" rx="20" fill="#0ea5a3" />
+</svg>
